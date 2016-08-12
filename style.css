@@ -1,0 +1,50 @@
+.Titleline {
+	width: 60%;
+	margin: 50px auto;
+	position:inline-flex;
+	text-align:center;
+
+}
+
+.Titleline div{
+	float: left;
+}
+#Logo {
+	size: 30%;
+}
+#Title {
+	margin-top:20px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 300%
+}
+
+.Conversations {
+	margin-top:50px;
+	width:85%;
+	text-align:center;
+	size:40%;
+}
+
+#C1 {
+}
+
+#C2{}
+
+.p {
+	padding-top: 10px;
+	padding-bottom:10px;
+	font-size:200%;
+}
+#image:hover {   
+    width: 400px;
+    height: 400px;    
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: url(blur.svg#blur);
+    filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='5'); }
+
+
+#C3{}
